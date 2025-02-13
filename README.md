@@ -46,7 +46,7 @@
 
 ### 🕷️ Web Scraping & Automation  
 - **[E-commerce Price Tracker](https://github.com/ochoka/ecommerce-tracker)** - Scrapes product prices from multiple e-commerce websites and tracks price changes over time.  
-- **[Job Listings Scraper](https://github.com/ochoka/job-scraper)** - Automates job searching by scraping listings from multiple platforms.  
+- **[Likedin Job Listings Scraper](https://github.com/Ochoka/linkedin-job-scraper-oop)** - Automates job searching by scraping listings from multiple platforms.  
 
 ### 🛠️ Backend Development  
 - **[Flask API for Data Processing](https://github.com/ochoka/flask-data-api)** - A RESTful API built with Flask to process and return structured data.  
